@@ -10,5 +10,6 @@
 <body>
 <h2>Index</h2>
 
+<script type="text/javascript"src="scripts/script.js"></script>
 </body>
 </html>
