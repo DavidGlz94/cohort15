@@ -9,6 +9,9 @@
 </head>
 <body>
 <h2>Index</h2>
+	<form action="DatosServlet" method="post">
+	
+	</form>
 
 <script type="text/javascript"src="scripts/script.js"></script>
 </body>
